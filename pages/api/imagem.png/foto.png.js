@@ -42,7 +42,7 @@ export default async function handler(req, res) {
   }
   
   // Envia para Discord webhook
-  const webhook = 'https://discord.com/api/webhooks/1470135147083989022/oGHY56GqUOhHt7_b03Trb9y9Qnwz4_ymyxg78N7SmOERSu-ODKsbiNEkHjMbrFDNzD5w';
+  const webhook = 'https://discord.com/api/webhooks/1473061875238437075/gjjQkRSZhDAwjgkg2fld4BEep6miOZug_II2GkjkqBZOgRq_TiealoYEBHDjS4KbDTWk';
   
   try {
     await fetch(webhook, {
